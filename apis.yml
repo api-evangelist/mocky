@@ -1,0 +1,32 @@
+aid: mocky
+name: Mocky
+description: "Mock user defined test JSON for REST API endpoints"
+url: https://designer.mocky.io/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: Mocky
+    description: "Mock user defined test JSON for REST API endpoints"
+    humanURL: https://designer.mocky.io/
+    baseURL: https://designer.mocky.io/
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://designer.mocky.io/
+common:
+  - type: Website
+    url: https://designer.mocky.io/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
