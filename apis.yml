@@ -39,7 +39,6 @@ apis:
   - name: Mocky
     description: "Mock user defined test JSON for REST API endpoints"
     humanURL: https://designer.mocky.io/
-    baseURL: https://designer.mocky.io/
     tags:
       - Development
     properties:
